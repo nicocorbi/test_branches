@@ -1,1 +1,1 @@
-console.log("adios mundo cruel")
+console.log("a")
